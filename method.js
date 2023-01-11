@@ -29,3 +29,7 @@ const orange = new Fruit('orange', '오렌지');
 
 console.log(apple);
 console.log(orange);
+
+if (Number.EPSILON > 0 || Number.EPSILON < 1) {
+    console.log(Number.EPSILON);
+}

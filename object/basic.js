@@ -22,3 +22,4 @@ apple.display();
 
 // obj는 객체이고, 그 어떤 클래스의 인스턴스도 아니다.
 const obj = { name: 'ellie' };
+
