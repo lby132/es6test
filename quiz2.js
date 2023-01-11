@@ -4,7 +4,7 @@ let arr = ['🍌', '🍓', '🍇', '🍓'];
 arr.splice(1, 1, '🥝');
 arr.splice(3, 3, '🥝');
 
-//console.log(arr);
+//console.log(arr);  
 
 
 //[ '🍌', '🥝', '🍇', '🥝' ], '🥝'
@@ -16,7 +16,7 @@ const newArr = arr2.forEach((current, index, array) => {
         i++;
         console.log(i);
     }
-})
+});
 
 //['🍌', '🥝', '🍇'],  ['🍌', '🍓', '🍇', '🍓']
 let array = ['🍌', '🥝', '🍇'];
