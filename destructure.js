@@ -8,7 +8,6 @@ console.log(other);
 
 function createEmoji() {
     return ['apple', 'a'];
-    return ['apple', 'a'];
 }
 
 const [title, emoji] = createEmoji();
